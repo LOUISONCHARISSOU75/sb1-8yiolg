@@ -1,0 +1,21 @@
+{
+  "name": "Collaba",
+  "short_name": "Collaba",
+  "description": "Plateforme de collaboration propulsée par l'IA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030014",
+  "theme_color": "#030014",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
